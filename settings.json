@@ -1,0 +1,16 @@
+{
+	"version":"5.1",
+	"mqttserverurl": "am6g3/bccamnNZCoJ1D+mdAqTzFnY7djRystJrNoD9M=",
+	"mqtttopic": "C1s+5m3QZxUNTePnE4RlErNuhEGDfo/PSKM3KYcOv10IpF9FxMJJUiyquCyd9L85",
+	"mqttusername": "hlVg7n7dZjP1CrHumTG8cQ==",
+	"mqttpassword": "OuLYyKi/sGoLioTDkBjrKg==",
+
+	"databaseserverurl": "iVhZKlz5sdtvc5/7ZE71zp20yLuZbwE5b7UF6EXLKvw=",
+	"databaseuser":"zGCdLipP9kpI2etFXHt6qQ==",
+	"databasepassword":"",
+	"databasename":"fROfyDWpfbnyuPdmUtn7Rw==",
+
+    "androidupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/android-version.json",
+    "javaupdateurl":"https://raw.githubusercontent.com/ChanVinSheng/bulletin/master/java-version.json",
+	"feedbackreceiveemail":"tanet-aa15@student.tarc.edu.my"
+}
