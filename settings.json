@@ -1,13 +1,13 @@
 {
-	"version":"5.2",
+	"version":"5.3",
 	"mqttserverurl": "am6g3/bccamnNZCoJ1D+mdAqTzFnY7djRystJrNoD9M=",
 	"mqtttopic": "C1s+5m3QZxUNTePnE4RlErNuhEGDfo/PSKM3KYcOv10IpF9FxMJJUiyquCyd9L85",
 	"mqttusername": "hlVg7n7dZjP1CrHumTG8cQ==",
 	"mqttpassword": "OuLYyKi/sGoLioTDkBjrKg==",
 
 	"databaseserverurl": "i95CMWahF31w7caUDg9OPBxtcfdAZ+gdy03dtlLG7HqpaM8FXFk3d6iSv6yiHEIi",
-	"databaseuser":"zGCdLipP9kpI2etFXHt6qQ==",
-	"databasepassword":"",
+	"databaseuser":"GF/pWS5W2U7Em4Y6n3g/yA==",
+	"databasepassword":"GF/pWS5W2U7Em4Y6n3g/yA==",
 	"databasename":"fROfyDWpfbnyuPdmUtn7Rw==",
 
     "androidupdateurl":"https://github.com/ettian529/testingMQTT/blob/master/RemoteConfig/android-version.json",
